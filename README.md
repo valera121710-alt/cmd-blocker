@@ -10,11 +10,11 @@
 - ✅ Logging of blocked processes
 - ✅ MSI installer for easy deployment
 
-## Download
-[📦 Download Installer](installer/CmdBlockerGUI-1.0.0.msi)
+## 📥 Download
+**[Download CmdBlocker-MSI.zip](https://github.com/valera121710-alt/cmd-blocker/releases/download/Install/CmdBlocker-MSI.zip)**
 
 ## How to Use
-1. Download and run the MSI installer
+1. Download ZIP and run the MSI installer
 2. Launch "CMD Blocker" from Start Menu
 3. Click "Start Protection" to enable blocking
 4. Application runs automatically on Windows startup
